@@ -1,0 +1,1 @@
+<div class="mt-20 font-bold text-3xl text-center">twc-svelte-template</div >
